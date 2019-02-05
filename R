@@ -1,0 +1,6 @@
+trace(utils:::unpackPkgZip, edit=TRUE)
+
+# Run the above code and look for the line (near 140) with:
+#   Sys.sleep(0.5)
+# edit this line to be:
+#   Sys.sleep(2)
